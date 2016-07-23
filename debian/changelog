@@ -1,0 +1,22 @@
+openni-sensor-primesense (5.1.0.41-3) unstable; urgency=low
+
+  [ Jochen Sprickerhof ]
+  * Change dependency to libjpeg-dev
+  * added new udev rules for the latest PrimeSense sensors and Kinect 4
+
+  [ Hans-Christoph Steiner ]
+  * Initial release (Closes: #628445)
+
+ -- Hans-Christoph Steiner <hans@eds.org>  Fri, 29 Nov 2013 15:44:48 -0500
+
+openni-sensor-primesense (5.1.0.41-2) unstable; urgency=low
+
+  * Drop openni-sensor-primesense-bin
+
+ -- Jochen Sprickerhof <launchpad@jochen.sprickerhof.de>  Thu, 20 Dec 2012 20:55:45 +0100
+
+openni-sensor-primesense (5.1.0.41-1) unstable; urgency=low
+
+  * Initial test version
+
+ -- Jochen Sprickerhof <launchpad@jochen.sprickerhof.de>  Tue, 06 Nov 2012 18:48:33 +0100

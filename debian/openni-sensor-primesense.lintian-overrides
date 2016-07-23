@@ -1,0 +1,5 @@
+# libXnCore0 libXnDDK0 libXnDeviceFile0 libXnDeviceSensorV2-0 libXnFormats0
+# are all plugins for the OpenNI system, following the whacky OpenNI naming
+# scheme.  There are multiple providers for those libs, so we include them all
+# in one package, as upstream packages and represents them.
+libopenni-sensor-primesense0: package-name-doesnt-match-sonames libXnCore0 libXnDDK0 libXnDeviceFile0 libXnDeviceSensorV2-0 libXnFormats0
