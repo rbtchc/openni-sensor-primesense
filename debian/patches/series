@@ -6,3 +6,4 @@
 0006-Fix-include-dirs.patch
 0007-Remove-call-to-XnLockedServerStreamsHash.patch
 0008-Move-XnSensorServer-to-usr-lib-libopenni-sensor-prim.patch
+0009-support_0609.patch
